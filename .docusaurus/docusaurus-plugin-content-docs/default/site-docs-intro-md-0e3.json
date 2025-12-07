@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/intro",
+  "permalink": "/AI-Humanoid-Book/docs/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/intro.md",
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "Chapter 4: URDF Robot Modeling",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/urdf-robot-modeling"
+    "permalink": "/AI-Humanoid-Book/docs/robotic-nervous-system/urdf-robot-modeling"
   },
   "next": {
     "title": "Module 2: The Digital Twin",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/digital-twin/"
+    "permalink": "/AI-Humanoid-Book/docs/digital-twin/"
   }
 }

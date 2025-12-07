@@ -5,7 +5,7 @@
   "source": "@site/docs/appendices/cloud-setup.md",
   "sourceDirName": "appendices",
   "slug": "/appendices/cloud-setup",
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/cloud-setup",
+  "permalink": "/AI-Humanoid-Book/docs/appendices/cloud-setup",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/appendices/cloud-setup.md",
@@ -15,10 +15,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "Chapter 13: Capstone: Autonomous Humanoid",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/capstone-autonomous-humanoid"
+    "permalink": "/AI-Humanoid-Book/docs/vision-language-action/capstone-autonomous-humanoid"
   },
   "next": {
     "title": "Hardware Guide",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/hardware-guide"
+    "permalink": "/AI-Humanoid-Book/docs/appendices/hardware-guide"
   }
 }

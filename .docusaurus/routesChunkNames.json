@@ -1,55 +1,55 @@
 {
-  "/Physical-AI-Humanoid-Robotics-Book/__docusaurus/debug-cc8": {
+  "/AI-Humanoid-Book/__docusaurus/debug-15e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-576"
     }
   },
-  "/Physical-AI-Humanoid-Robotics-Book/__docusaurus/debug/config-2b3": {
+  "/AI-Humanoid-Book/__docusaurus/debug/config-068": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-576"
     }
   },
-  "/Physical-AI-Humanoid-Robotics-Book/__docusaurus/debug/content-6da": {
+  "/AI-Humanoid-Book/__docusaurus/debug/content-41f": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-576"
     },
-    "__props": "__props---physical-ai-humanoid-robotics-book-docusaurus-debug-content-70-f-99c"
+    "__props": "__props---ai-humanoid-book-docusaurus-debug-content-9-b-3-882"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/__docusaurus/debug/globalData-0a7": {
+  "/AI-Humanoid-Book/__docusaurus/debug/globalData-373": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-576"
     }
   },
-  "/Physical-AI-Humanoid-Robotics-Book/__docusaurus/debug/metadata-797": {
+  "/AI-Humanoid-Book/__docusaurus/debug/metadata-a3a": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-576"
     }
   },
-  "/Physical-AI-Humanoid-Robotics-Book/__docusaurus/debug/registry-4c8": {
+  "/AI-Humanoid-Book/__docusaurus/debug/registry-6d3": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-576"
     }
   },
-  "/Physical-AI-Humanoid-Robotics-Book/__docusaurus/debug/routes-29b": {
+  "/AI-Humanoid-Book/__docusaurus/debug/routes-d47": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docusaurus-debugb-38-576"
     }
   },
-  "/Physical-AI-Humanoid-Robotics-Book/404-ce6": {
+  "/AI-Humanoid-Book/404-e4c": {
     "__comp": "__comp---site-src-pages-404-tsx-936-282",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-404-a-74-cfb"
     },
     "config": "config---physical-ai-humanoid-robotics-book-4045-e-9-3ee"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog-f1d": {
+  "/AI-Humanoid-Book/blog-d6d": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
@@ -69,16 +69,16 @@
         "content": "content---physical-ai-humanoid-robotics-book-blog-925-4a6"
       }
     ],
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-6-b-7-e6e"
+    "__props": "__props---ai-humanoid-book-blogce-3-481"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/archive-412": {
+  "/AI-Humanoid-Book/blog/archive-460": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
     },
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-archive-8-ad-3c2"
+    "__props": "__props---ai-humanoid-book-blog-archive-503-592"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/authors-b21": {
+  "/AI-Humanoid-Book/blog/authors-44b": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
@@ -87,9 +87,9 @@
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
     },
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-authorsd-3-f-1fc"
+    "__props": "__props---ai-humanoid-book-blog-authorscd-3-890"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/authors/all-sebastien-lorber-articles-4a2": {
+  "/AI-Humanoid-Book/blog/authors/all-sebastien-lorber-articles-822": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -109,9 +109,9 @@
       }
     ],
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-authors-all-sebastien-lorber-articles-158-a13"
+    "__props": "__props---ai-humanoid-book-blog-authors-all-sebastien-lorber-articlesd-10-0d5"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/authors/yangshun-288": {
+  "/AI-Humanoid-Book/blog/authors/yangshun-722": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -131,9 +131,9 @@
       }
     ],
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-authors-yangshunee-8-27f"
+    "__props": "__props---ai-humanoid-book-blog-authors-yangshun-5-a-5-bf7"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/first-blog-post-c5a": {
+  "/AI-Humanoid-Book/blog/first-blog-post-5ac": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -144,7 +144,7 @@
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
     "content": "content---physical-ai-humanoid-robotics-book-blog-first-blog-poste-27-bc2"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/long-blog-post-701": {
+  "/AI-Humanoid-Book/blog/long-blog-post-982": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -155,7 +155,7 @@
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
     "content": "content---physical-ai-humanoid-robotics-book-blog-long-blog-post-736-8d2"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/mdx-blog-post-c6f": {
+  "/AI-Humanoid-Book/blog/mdx-blog-post-e56": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -166,15 +166,15 @@
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
     "content": "content---physical-ai-humanoid-robotics-book-blog-mdx-blog-post-593-5a3"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/tags-f61": {
+  "/AI-Humanoid-Book/blog/tags-46b": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
     },
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-tags-6-d-1-359"
+    "__props": "__props---ai-humanoid-book-blog-tagsc-00-3ec"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/tags/docusaurus-35d": {
+  "/AI-Humanoid-Book/blog/tags/docusaurus-fda": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
@@ -194,9 +194,9 @@
         "content": "content---physical-ai-humanoid-robotics-book-blog-925-4a6"
       }
     ],
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-tags-docusaurus-676-fae"
+    "__props": "__props---ai-humanoid-book-blog-tags-docusaurused-9-199"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/tags/facebook-ab4": {
+  "/AI-Humanoid-Book/blog/tags/facebook-1a3": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
@@ -207,9 +207,9 @@
         "content": "content---physical-ai-humanoid-robotics-book-blog-766-b7b"
       }
     ],
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-tags-facebook-47-a-88a"
+    "__props": "__props---ai-humanoid-book-blog-tags-facebook-28-e-432"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/tags/hello-dc6": {
+  "/AI-Humanoid-Book/blog/tags/hello-421": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
@@ -223,9 +223,9 @@
         "content": "content---physical-ai-humanoid-robotics-book-blog-871-fe9"
       }
     ],
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-tags-hello-682-f4b"
+    "__props": "__props---ai-humanoid-book-blog-tags-hellob-6-c-b4f"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/tags/hola-d22": {
+  "/AI-Humanoid-Book/blog/tags/hola-a88": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-blog-369-3d1"
@@ -236,9 +236,9 @@
         "content": "content---physical-ai-humanoid-robotics-book-blog-925-4a6"
       }
     ],
-    "__props": "__props---physical-ai-humanoid-robotics-book-blog-tags-hola-128-cd4"
+    "__props": "__props---ai-humanoid-book-blog-tags-holabd-9-67c"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/blog/welcome-5ca": {
+  "/AI-Humanoid-Book/blog/welcome-2ee": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -249,182 +249,182 @@
     "sidebar": "sidebar---physical-ai-humanoid-robotics-book-blog-814-121",
     "content": "content---physical-ai-humanoid-robotics-book-blog-welcomed-9-f-d57"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/design-showcase-3d1": {
+  "/AI-Humanoid-Book/design-showcase-c21": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-404-a-74-cfb"
     },
     "content": "content---physical-ai-humanoid-robotics-book-design-showcasea-45-62e"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/markdown-page-f9b": {
+  "/AI-Humanoid-Book/markdown-page-5bc": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-404-a-74-cfb"
     },
     "content": "content---physical-ai-humanoid-robotics-book-markdown-page-393-e04"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs-b9a": {
+  "/AI-Humanoid-Book/docs-bb3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-docsaba-fc1"
     }
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs-5aa": {
+  "/AI-Humanoid-Book/docs-190": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---physical-ai-humanoid-robotics-book-docsdfa-1dc"
+    "__props": "__props---ai-humanoid-book-docs-4-c-5-227"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs-d06": {
+  "/AI-Humanoid-Book/docs-782": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/-bea": {
+  "/AI-Humanoid-Book/docs/ai-robot-brain/-e46": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-ai-robot-brain-052-b2e"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/isaac-ros-perception-c37": {
+  "/AI-Humanoid-Book/docs/ai-robot-brain/isaac-ros-perception-843": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-ai-robot-brain-isaac-ros-perception-745-563"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/nav2-path-planning-530": {
+  "/AI-Humanoid-Book/docs/ai-robot-brain/nav2-path-planning-dd3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-ai-robot-brain-nav-2-path-planningae-8-218"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/nvidia-isaac-sim-b13": {
+  "/AI-Humanoid-Book/docs/ai-robot-brain/nvidia-isaac-sim-8f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-ai-robot-brain-nvidia-isaac-sim-3-a-2-f8a"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/cloud-setup-799": {
+  "/AI-Humanoid-Book/docs/appendices/cloud-setup-254": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-appendices-cloud-setup-565-3ac"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/hardware-guide-7e8": {
+  "/AI-Humanoid-Book/docs/appendices/hardware-guide-8aa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-appendices-hardware-guide-781-702"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/resources-59d": {
+  "/AI-Humanoid-Book/docs/appendices/resources-be0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-appendices-resourcesdb-3-361"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/troubleshooting-6dd": {
+  "/AI-Humanoid-Book/docs/appendices/troubleshooting-7f3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-appendices-troubleshootingbd-6-e44"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/category/tutorial---basics-89c": {
+  "/AI-Humanoid-Book/docs/category/tutorial---basics-590": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---physical-ai-humanoid-robotics-book-docs-category-tutorial-basics-596-c44"
+    "__props": "__props---ai-humanoid-book-docs-category-tutorial-basicsa-3-c-1bf"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/category/tutorial---extras-ab9": {
+  "/AI-Humanoid-Book/docs/category/tutorial---extras-892": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---physical-ai-humanoid-robotics-book-docs-category-tutorial-extras-7-c-1-089"
+    "__props": "__props---ai-humanoid-book-docs-category-tutorial-extras-57-e-c28"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/digital-twin/-e9b": {
+  "/AI-Humanoid-Book/docs/digital-twin/-9c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-digital-twin-e-3-e-364"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/digital-twin/gazebo-fundamentals-9b4": {
+  "/AI-Humanoid-Book/docs/digital-twin/gazebo-fundamentals-36d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-digital-twin-gazebo-fundamentals-1-b-9-412"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/digital-twin/physics-simulation-068": {
+  "/AI-Humanoid-Book/docs/digital-twin/physics-simulation-a2a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-digital-twin-physics-simulation-595-3a8"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/digital-twin/unity-integration-82f": {
+  "/AI-Humanoid-Book/docs/digital-twin/unity-integration-967": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-digital-twin-unity-integration-821-b9b"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/glossary-9f4": {
+  "/AI-Humanoid-Book/docs/glossary-932": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-glossarye-74-7ab"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/instructor-guide-51a": {
+  "/AI-Humanoid-Book/docs/instructor-guide-ac4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-instructor-guide-871-e0b"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/intro-012": {
+  "/AI-Humanoid-Book/docs/intro-f92": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-intro-0-e-3-f6e"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/-deb": {
+  "/AI-Humanoid-Book/docs/robotic-nervous-system/-9d4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-robotic-nervous-system-f-22-8db"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/introduction-physical-ai-1fa": {
+  "/AI-Humanoid-Book/docs/robotic-nervous-system/introduction-physical-ai-777": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-robotic-nervous-system-introduction-physical-aic-83-11d"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/ros2-architecture-65b": {
+  "/AI-Humanoid-Book/docs/robotic-nervous-system/ros2-architecture-f9b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-robotic-nervous-system-ros-2-architecture-2-d-4-824"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/ros2-python-development-5f6": {
+  "/AI-Humanoid-Book/docs/robotic-nervous-system/ros2-python-development-a8d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-robotic-nervous-system-ros-2-python-developmentd-85-7df"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/urdf-robot-modeling-b4f": {
+  "/AI-Humanoid-Book/docs/robotic-nervous-system/urdf-robot-modeling-e5e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-robotic-nervous-system-urdf-robot-modeling-4-c-1-efc"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/student-resources/ros2_python_cheat_sheet-172": {
+  "/AI-Humanoid-Book/docs/student-resources/ros2_python_cheat_sheet-da9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-student-resources-ros-2-python-cheat-sheet-6-a-6-5ef"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/student-resources/vla_reference_card-e0f": {
+  "/AI-Humanoid-Book/docs/student-resources/vla_reference_card-874": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-student-resources-vla-reference-card-6-ab-b73"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/congratulations-5f1": {
+  "/AI-Humanoid-Book/docs/tutorial-basics/congratulations-094": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-basics-congratulations-822-1d2"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/create-a-blog-post-e7e": {
+  "/AI-Humanoid-Book/docs/tutorial-basics/create-a-blog-post-c53": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-basics-create-a-blog-post-533-a17"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/create-a-document-8d2": {
+  "/AI-Humanoid-Book/docs/tutorial-basics/create-a-document-d4c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-basics-create-a-document-1-e-4-2ab"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/create-a-page-3ce": {
+  "/AI-Humanoid-Book/docs/tutorial-basics/create-a-page-db3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-basics-create-a-page-5-c-8-dd9"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/deploy-your-site-cb8": {
+  "/AI-Humanoid-Book/docs/tutorial-basics/deploy-your-site-477": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-basics-deploy-your-sitef-55-626"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/markdown-features-415": {
+  "/AI-Humanoid-Book/docs/tutorial-basics/markdown-features-0c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-basics-markdown-features-18-c-366"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-extras/manage-docs-versions-890": {
+  "/AI-Humanoid-Book/docs/tutorial-extras/manage-docs-versions-252": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-extras-manage-docs-versionsdff-b77"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-extras/translate-your-site-e4c": {
+  "/AI-Humanoid-Book/docs/tutorial-extras/translate-your-site-21c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-tutorial-extras-translate-your-sitee-44-9d7"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/video_embedding_instructions-7d6": {
+  "/AI-Humanoid-Book/docs/video_embedding_instructions-5c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-video-embedding-instructions-2-c-4-bc0"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/-c63": {
+  "/AI-Humanoid-Book/docs/vision-language-action/-bb2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-vision-language-action-ddd-3ec"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/capstone-autonomous-humanoid-626": {
+  "/AI-Humanoid-Book/docs/vision-language-action/capstone-autonomous-humanoid-2a7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-vision-language-action-capstone-autonomous-humanoidda-0-489"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/llm-cognitive-planning-ad5": {
+  "/AI-Humanoid-Book/docs/vision-language-action/llm-cognitive-planning-286": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-vision-language-action-llm-cognitive-planningc-65-c53"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/voice-to-action-897": {
+  "/AI-Humanoid-Book/docs/vision-language-action/voice-to-action-590": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---physical-ai-humanoid-robotics-book-docs-vision-language-action-voice-to-actione-73-19d"
   },
-  "/Physical-AI-Humanoid-Robotics-Book/-d53": {
+  "/AI-Humanoid-Book/-633": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
       "plugin": "plugin---physical-ai-humanoid-robotics-book-404-a-74-cfb"

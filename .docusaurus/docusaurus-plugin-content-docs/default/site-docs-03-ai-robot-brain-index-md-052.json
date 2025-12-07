@@ -5,7 +5,7 @@
   "source": "@site/docs/03-ai-robot-brain/index.md",
   "sourceDirName": "03-ai-robot-brain",
   "slug": "/ai-robot-brain/",
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/",
+  "permalink": "/AI-Humanoid-Book/docs/ai-robot-brain/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/03-ai-robot-brain/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/congratulations"
+    "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/congratulations"
   },
   "next": {
     "title": "Chapter 8: NVIDIA Isaac Sim",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/nvidia-isaac-sim"
+    "permalink": "/AI-Humanoid-Book/docs/ai-robot-brain/nvidia-isaac-sim"
   }
 }

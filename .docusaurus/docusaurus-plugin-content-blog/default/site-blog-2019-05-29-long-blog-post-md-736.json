@@ -1,5 +1,5 @@
 {
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book/blog/long-blog-post",
+  "permalink": "/AI-Humanoid-Book/blog/long-blog-post",
   "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/blog/2019-05-29-long-blog-post.md",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "Long Blog Post",
@@ -9,13 +9,13 @@
     {
       "inline": false,
       "label": "Hello",
-      "permalink": "/Physical-AI-Humanoid-Robotics-Book/blog/tags/hello",
+      "permalink": "/AI-Humanoid-Book/blog/tags/hello",
       "description": "Hello tag description"
     },
     {
       "inline": false,
       "label": "Docusaurus",
-      "permalink": "/Physical-AI-Humanoid-Robotics-Book/blog/tags/docusaurus",
+      "permalink": "/AI-Humanoid-Book/blog/tags/docusaurus",
       "description": "Docusaurus tag description"
     }
   ],
@@ -27,7 +27,7 @@
       "title": "Ex-Meta Staff Engineer, Co-founder GreatFrontEnd",
       "url": "https://linkedin.com/in/yangshun",
       "page": {
-        "permalink": "/Physical-AI-Humanoid-Robotics-Book/blog/authors/yangshun"
+        "permalink": "/AI-Humanoid-Book/blog/authors/yangshun"
       },
       "socials": {
         "x": "https://x.com/yangshunz",
@@ -51,10 +51,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "MDX Blog Post",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/blog/mdx-blog-post"
+    "permalink": "/AI-Humanoid-Book/blog/mdx-blog-post"
   },
   "nextItem": {
     "title": "First Blog Post",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/blog/first-blog-post"
+    "permalink": "/AI-Humanoid-Book/blog/first-blog-post"
   }
 }

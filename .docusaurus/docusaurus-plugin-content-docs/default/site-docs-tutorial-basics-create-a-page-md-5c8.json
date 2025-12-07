@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-page",
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/create-a-page",
+  "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/create-a-page",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/tutorial-basics/create-a-page.md",
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "Tutorial - Basics",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/category/tutorial---basics"
+    "permalink": "/AI-Humanoid-Book/docs/category/tutorial---basics"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/create-a-document"
+    "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/create-a-document"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/congratulations",
+  "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/congratulations",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/tutorial-basics/congratulations.md",
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Module 3: The AI Robot Brain",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/"
+    "permalink": "/AI-Humanoid-Book/docs/ai-robot-brain/"
   }
 }

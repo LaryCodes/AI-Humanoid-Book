@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://huzaifa11002.github.io",
-  "baseUrl": "/Physical-AI-Humanoid-Robotics-Book/",
-  "organizationName": "huzaifa11002",
-  "projectName": "Physical-AI-Humanoid-Robotics-Book",
+  "url": "https://larycodes.github.io",
+  "baseUrl": "/AI-Humanoid-Book/",
+  "organizationName": "LaryCodes",
+  "projectName": "AI-Humanoid-Book",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",

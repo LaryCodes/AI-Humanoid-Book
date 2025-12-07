@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/markdown-features.mdx",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/markdown-features",
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/markdown-features",
+  "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/markdown-features",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/tutorial-basics/markdown-features.mdx",
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "Create a Blog Post",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/create-a-blog-post"
+    "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/create-a-blog-post"
   },
   "next": {
     "title": "Deploy your site",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/AI-Humanoid-Book/docs/tutorial-basics/deploy-your-site"
   }
 }

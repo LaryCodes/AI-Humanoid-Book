@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://github.com/LaryCodes', // Placeholder for GitHub Pages deployment
+  url: 'https://larycodes.github.io', // Placeholder for GitHub Pages deployment
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/AI-Humanoid-Book/', // For GitHub Pages deployment, adjust as needed
