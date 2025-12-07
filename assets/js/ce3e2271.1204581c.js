@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktemp_docusaurus_init=globalThis.webpackChunktemp_docusaurus_init||[]).push([[3247],{6115:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/AI-Humanoid-Book/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
