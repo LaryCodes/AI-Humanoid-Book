@@ -32,7 +32,7 @@ export default {
   "baseUrl": "/AI-Humanoid-Book/",
   "organizationName": "LaryCodes",
   "projectName": "AI-Humanoid-Book",
-  "onBrokenLinks": "ignore",
+  "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -47,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/"
+          "editUrl": "https://github.com/LaryCodes/AI-Humanoid-Book/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -58,10 +58,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "editUrl": "https://github.com/LaryCodes/AI-Humanoid-Book/tree/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -100,7 +97,7 @@ export default {
           "position": "right"
         },
         {
-          "href": "https://github.com/specifykit/ai-native-book",
+          "href": "https://github.com/LaryCodes/AI-Humanoid-Book",
           "position": "right",
           "className": "header-github-link",
           "aria-label": "GitHub repository"
@@ -136,7 +133,7 @@ export default {
           "items": [
             {
               "label": "GitHub Discussions",
-              "href": "https://github.com/specifykit/ai-native-book/discussions"
+              "href": "https://github.com/LaryCodes/AI-Humanoid-Book/discussions"
             },
             {
               "label": "Discord",
@@ -157,11 +154,11 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/specifykit/ai-native-book"
+              "href": "https://github.com/LaryCodes/AI-Humanoid-Book"
             },
             {
               "label": "Code Examples",
-              "href": "https://github.com/specifykit/ai-native-book/tree/main/code-examples"
+              "href": "https://github.com/LaryCodes/AI-Humanoid-Book"
             }
           ]
         },
@@ -183,7 +180,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 SpecifyKit. Built with ❤️ and Docusaurus."
+      "copyright": "Copyright © 2025 SpecifyKit."
     },
     "prism": {
       "theme": {

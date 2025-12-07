@@ -1,34 +1,27 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+// This runs in Node.js - Do not use browser APIs here.
 
 const config: Config = {
   title: 'Physical AI & Humanoid Robotics: From Simulation to Reality',
   tagline: 'A comprehensive guide to building intelligent embodied systems.',
   favicon: 'img/favicon.ico',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
-  // Set the production url of your site here
-  url: 'https://larycodes.github.io', // Placeholder for GitHub Pages deployment
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/AI-Humanoid-Book/', // For GitHub Pages deployment, adjust as needed
+  // --- GitHub Pages deployment URL config ---
+  url: 'https://larycodes.github.io',
+  baseUrl: '/AI-Humanoid-Book/',
+  organizationName: 'LaryCodes',
+  projectName: 'AI-Humanoid-Book',
 
-  // GitHub pages deployment config.
-  organizationName: 'LaryCodes', // Usually your GitHub org/user name.
-  projectName: 'AI-Humanoid-Book', // Usually your repo name.
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
 
-  onBrokenLinks: 'ignore',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -40,10 +33,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/specifykit/ai-native-book/tree/main/', // Changed to project repo
+          editUrl: 'https://github.com/LaryCodes/AI-Humanoid-Book/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -51,14 +41,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/specifykit/ai-native-book/tree/main/', // Changed to project repo
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          editUrl: 'https://github.com/LaryCodes/AI-Humanoid-Book/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -68,13 +51,14 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
+
     navbar: {
       title: 'Physical AI & Robotics',
       logo: {
@@ -90,44 +74,33 @@ const config: Config = {
           label: '📚 Learn',
         },
         {
-          to: '/blog', 
-          label: '✍️ Blog', 
-          position: 'left'
+          to: '/blog',
+          label: '✍️ Blog',
+          position: 'left',
         },
         {
           type: 'search',
           position: 'right',
         },
         {
-          href: 'https://github.com/specifykit/ai-native-book',
+          href: 'https://github.com/LaryCodes/AI-Humanoid-Book',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
         },
       ],
     },
+
     footer: {
       style: 'dark',
       links: [
         {
           title: 'Learn',
           items: [
-            {
-              label: 'Introduction',
-              to: '/docs/intro',
-            },
-            {
-              label: 'ROS2 Fundamentals',
-              to: '/docs/category/ros2-fundamentals',
-            },
-            {
-              label: 'Simulation',
-              to: '/docs/category/simulation',
-            },
-            {
-              label: 'AI Integration',
-              to: '/docs/category/ai-integration',
-            },
+            { label: 'Introduction', to: '/docs/intro' },
+            { label: 'ROS2 Fundamentals', to: '/docs/category/ros2-fundamentals' },
+            { label: 'Simulation', to: '/docs/category/simulation' },
+            { label: 'AI Integration', to: '/docs/category/ai-integration' },
           ],
         },
         {
@@ -135,7 +108,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/specifykit/ai-native-book/discussions',
+              href: 'https://github.com/LaryCodes/AI-Humanoid-Book/discussions',
             },
             {
               label: 'Discord',
@@ -150,31 +123,16 @@ const config: Config = {
         {
           title: 'Resources',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/specifykit/ai-native-book',
-            },
-            {
-              label: 'Code Examples',
-              href: 'https://github.com/specifykit/ai-native-book/tree/main/code-examples',
-            },
+            { label: 'Blog', to: '/blog' },
+            { label: 'GitHub', href: 'https://github.com/LaryCodes/AI-Humanoid-Book' },
+            { label: 'Code Examples', href: 'https://github.com/LaryCodes/AI-Humanoid-Book' },
           ],
         },
         {
           title: 'About',
           items: [
-            {
-              label: 'SpecifyKit',
-              href: 'https://specifykit.com',
-            },
-            {
-              label: 'License',
-              href: 'https://github.com/specifykit/ai-native-book/blob/main/LICENSE',
-            },
+            { label: 'SpecifyKit', href: 'https://specifykit.com' },
+            { label: 'License', href: 'https://github.com/specifykit/ai-native-book/blob/main/LICENSE' },
             {
               label: 'Contributing',
               href: 'https://github.com/specifykit/ai-native-book/blob/main/CONTRIBUTING.md',
@@ -182,19 +140,22 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} SpecifyKit. Built with ❤️ and Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SpecifyKit.`,
     },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.vsDark,
       additionalLanguages: ['python', 'bash'],
     },
+
     docs: {
       sidebar: {
         hideable: true,
         autoCollapseCategories: true,
       },
     },
+
     tableOfContents: {
       minHeadingLevel: 2,
       maxHeadingLevel: 4,
