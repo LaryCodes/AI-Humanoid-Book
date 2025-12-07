@@ -1,0 +1,127 @@
+.stats {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, 
+    rgba(14, 165, 233, 0.05) 0%, 
+    rgba(20, 184, 166, 0.05) 50%,
+    rgba(168, 85, 247, 0.05) 100%
+  );
+  position: relative;
+  overflow: hidden;
+}
+
+.stats::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    linear-gradient(rgba(14, 165, 233, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(14, 165, 233, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  position: relative;
+  z-index: 1;
+}
+
+.statCard {
+  background: var(--ifm-card-background);
+  border-radius: 16px;
+  padding: 3rem 2rem;
+  text-align: center;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.statCard:hover {
+  transform: translateY(-10px) scale(1.02);
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 20px 25px -5px rgba(14, 165, 233, 0.3);
+}
+
+.statIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  animation: bounce 2s ease-in-out infinite;
+}
+
+.statCard:nth-child(1) .statIcon {
+  animation-delay: 0s;
+}
+
+.statCard:nth-child(2) .statIcon {
+  animation-delay: 0.2s;
+}
+
+.statCard:nth-child(3) .statIcon {
+  animation-delay: 0.4s;
+}
+
+.statCard:nth-child(4) .statIcon {
+  animation-delay: 0.6s;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.statNumber {
+  font-size: 3.5rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, 
+    var(--ifm-color-primary) 0%, 
+    var(--ifm-color-accent-teal) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+.statLabel {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--ifm-font-color-secondary);
+}
+
+@media screen and (max-width: 768px) {
+  .stats {
+    padding: 3rem 0;
+  }
+  
+  .statsGrid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .statCard {
+    padding: 2rem 1rem;
+  }
+  
+  .statIcon {
+    font-size: 2.5rem;
+  }
+  
+  .statNumber {
+    font-size: 2.5rem;
+  }
+  
+  .statLabel {
+    font-size: 1rem;
+  }
+}

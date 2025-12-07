@@ -1,0 +1,24 @@
+{
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "This glossary defines key terminology used throughout the \"Physical AI & Humanoid Robotics\" course.",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/troubleshooting"
+  },
+  "next": {
+    "title": "Instructor Guide: Physical AI & Humanoid Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/instructor-guide"
+  }
+}

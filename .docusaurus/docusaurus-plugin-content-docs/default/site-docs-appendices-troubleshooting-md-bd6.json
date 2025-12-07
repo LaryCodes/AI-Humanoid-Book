@@ -1,0 +1,24 @@
+{
+  "id": "appendices/troubleshooting",
+  "title": "Troubleshooting Guide",
+  "description": "This guide provides solutions to common issues encountered while establishing development environments, running simulations, or implementing code examples in this course.",
+  "source": "@site/docs/appendices/troubleshooting.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/troubleshooting",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/appendices/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Additional Resources",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/resources"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/glossary"
+  }
+}

@@ -1,0 +1,88 @@
+/**
+ * Enhanced Doc Item Layout
+ */
+
+.docItemWrapper {
+  animation: fadeIn 0.4s ease-out;
+}
+
+.docItemWrapper :global(article) {
+  max-width: 100%;
+}
+
+/* Enhanced content styling */
+.docItemWrapper :global(.markdown) {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.docItemWrapper :global(.markdown) > :global(h1) {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid var(--ifm-color-primary);
+}
+
+.docItemWrapper :global(.markdown) > :global(h2) {
+  font-size: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--ifm-color-primary);
+}
+
+.docItemWrapper :global(.markdown) > :global(h3) {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--ifm-color-primary);
+}
+
+/* Enhanced code blocks */
+.docItemWrapper :global(.markdown) :global(pre) {
+  border-radius: 12px;
+  box-shadow: var(--ifm-shadow-md);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  margin: 1.5rem 0;
+}
+
+/* Enhanced blockquotes */
+.docItemWrapper :global(.markdown) :global(blockquote) {
+  border-left: 4px solid var(--ifm-color-primary);
+  background: var(--ifm-background-surface-color);
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  box-shadow: var(--ifm-shadow-sm);
+}
+
+/* Enhanced lists */
+.docItemWrapper :global(.markdown) :global(ul),
+.docItemWrapper :global(.markdown) :global(ol) {
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.docItemWrapper :global(.markdown) :global(li) {
+  margin: 0.5rem 0;
+}
+
+/* Enhanced images */
+.docItemWrapper :global(.markdown) :global(img) {
+  border-radius: 12px;
+  box-shadow: var(--ifm-shadow-lg);
+  margin: 1.5rem 0;
+  max-width: 100%;
+  height: auto;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

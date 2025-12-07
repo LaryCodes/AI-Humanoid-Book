@@ -1,0 +1,145 @@
+/**
+ * Enhanced Admonitions (Callouts) - Modern Design
+ */
+
+.admonition {
+  border-radius: 12px;
+  border-left-width: 4px;
+  box-shadow: var(--ifm-shadow-md);
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.admonition:hover {
+  transform: translateX(4px);
+  box-shadow: var(--ifm-shadow-lg);
+}
+
+.admonition-heading {
+  font-weight: 700;
+  font-size: 1.125rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.admonition-icon {
+  margin-right: 0.75rem;
+  font-size: 1.5rem;
+}
+
+.admonition-content {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Note - Blue */
+.admonition-note {
+  background: rgba(14, 165, 233, 0.1);
+  border-left-color: #0ea5e9;
+}
+
+[data-theme='dark'] .admonition-note {
+  background: rgba(14, 165, 233, 0.15);
+}
+
+.admonition-note .admonition-heading {
+  color: #0ea5e9;
+}
+
+/* Tip - Teal */
+.admonition-tip {
+  background: rgba(20, 184, 166, 0.1);
+  border-left-color: #14b8a6;
+}
+
+[data-theme='dark'] .admonition-tip {
+  background: rgba(20, 184, 166, 0.15);
+}
+
+.admonition-tip .admonition-heading {
+  color: #14b8a6;
+}
+
+/* Info - Cyan */
+.admonition-info {
+  background: rgba(6, 182, 212, 0.1);
+  border-left-color: #06b6d4;
+}
+
+[data-theme='dark'] .admonition-info {
+  background: rgba(6, 182, 212, 0.15);
+}
+
+.admonition-info .admonition-heading {
+  color: #06b6d4;
+}
+
+/* Warning - Orange */
+.admonition-warning,
+.admonition-caution {
+  background: rgba(251, 146, 60, 0.1);
+  border-left-color: #fb923c;
+}
+
+[data-theme='dark'] .admonition-warning,
+[data-theme='dark'] .admonition-caution {
+  background: rgba(251, 146, 60, 0.15);
+}
+
+.admonition-warning .admonition-heading,
+.admonition-caution .admonition-heading {
+  color: #fb923c;
+}
+
+/* Danger - Red */
+.admonition-danger {
+  background: rgba(239, 68, 68, 0.1);
+  border-left-color: #ef4444;
+}
+
+[data-theme='dark'] .admonition-danger {
+  background: rgba(239, 68, 68, 0.15);
+}
+
+.admonition-danger .admonition-heading {
+  color: #ef4444;
+}
+
+/* Success - Green */
+.admonition-success {
+  background: rgba(34, 197, 94, 0.1);
+  border-left-color: #22c55e;
+}
+
+[data-theme='dark'] .admonition-success {
+  background: rgba(34, 197, 94, 0.15);
+}
+
+.admonition-success .admonition-heading {
+  color: #22c55e;
+}
+
+/* Code blocks inside admonitions */
+.admonition code {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+[data-theme='dark'] .admonition code {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Links inside admonitions */
+.admonition a {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.admonition a:hover {
+  text-decoration: none;
+}

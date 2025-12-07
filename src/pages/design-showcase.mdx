@@ -1,0 +1,210 @@
+---
+title: Design System Showcase
+description: Visual demonstration of all design components and styling
+---
+
+# Design System Showcase
+
+This page demonstrates all the visual components and styling available in the Physical AI & Robotics Book.
+
+## Color Palette
+
+<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1rem', marginBottom: '2rem'}}>
+  <div style={{padding: '2rem', background: 'var(--ifm-color-primary)', color: 'white', borderRadius: '12px', textAlign: 'center', fontWeight: 'bold'}}>
+    Primary
+  </div>
+  <div style={{padding: '2rem', background: 'var(--ifm-color-accent-teal)', color: 'white', borderRadius: '12px', textAlign: 'center', fontWeight: 'bold'}}>
+    Accent Teal
+  </div>
+  <div style={{padding: '2rem', background: 'var(--ifm-color-accent-purple)', color: 'white', borderRadius: '12px', textAlign: 'center', fontWeight: 'bold'}}>
+    Accent Purple
+  </div>
+  <div style={{padding: '2rem', background: 'var(--ifm-color-accent-cyan)', color: 'white', borderRadius: '12px', textAlign: 'center', fontWeight: 'bold'}}>
+    Accent Cyan
+  </div>
+</div>
+
+## Typography
+
+# Heading 1 - Main Page Title
+## Heading 2 - Section Title
+### Heading 3 - Subsection Title
+#### Heading 4 - Minor Section
+
+This is regular paragraph text with **bold text**, *italic text*, and `inline code`. You can also use [links](#) to navigate.
+
+## Buttons
+
+<div style={{display: 'flex', gap: '1rem', flexWrap: 'wrap', marginBottom: '2rem'}}>
+  <button className="button button--primary">Primary Button</button>
+  <button className="button button--secondary">Secondary Button</button>
+  <button className="button button--primary button--lg">Large Button</button>
+  <button className="button button--outline button--primary">Outline Button</button>
+</div>
+
+## Admonitions
+
+:::note
+This is a **note** admonition. Use it for general information and helpful tips.
+:::
+
+:::tip
+This is a **tip** admonition. Use it for best practices and recommendations.
+:::
+
+:::info
+This is an **info** admonition. Use it for additional context and details.
+:::
+
+:::warning
+This is a **warning** admonition. Use it for important cautions and considerations.
+:::
+
+:::danger
+This is a **danger** admonition. Use it for critical warnings and errors.
+:::
+
+## Code Blocks
+
+### Python Example
+```python title="robot_controller.py"
+import rclpy
+from rclpy.node import Node
+
+class RobotController(Node):
+    def __init__(self):
+        super().__init__('robot_controller')
+        self.get_logger().info('Robot controller initialized')
+    
+    def move_forward(self, speed):
+        """Move the robot forward at specified speed"""
+        self.get_logger().info(f'Moving forward at {speed} m/s')
+
+def main():
+    rclpy.init()
+    controller = RobotController()
+    rclpy.spin(controller)
+    rclpy.shutdown()
+```
+
+### JavaScript Example
+```javascript title="config.js"
+const config = {
+  apiUrl: 'https://api.example.com',
+  timeout: 5000,
+  retries: 3
+};
+
+export default config;
+```
+
+### Bash Example
+```bash title="setup.sh"
+#!/bin/bash
+echo "Setting up ROS2 environment..."
+source /opt/ros/humble/setup.bash
+colcon build --symlink-install
+```
+
+## Tables
+
+| Feature | Description | Status |
+|---------|-------------|--------|
+| ROS2 Integration | Full ROS2 Humble support | ✅ Complete |
+| Gazebo Simulation | Physics-based simulation | ✅ Complete |
+| Unity Integration | Real-time 3D visualization | 🚧 In Progress |
+| Isaac Sim | NVIDIA Isaac Sim support | 📋 Planned |
+
+## Lists
+
+### Unordered List
+- First item with important information
+- Second item with more details
+  - Nested item one
+  - Nested item two
+- Third item to conclude
+
+### Ordered List
+1. Initialize the ROS2 workspace
+2. Build the packages
+3. Source the setup file
+4. Launch the simulation
+5. Monitor the robot behavior
+
+## Cards
+
+<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '1.5rem', marginBottom: '2rem'}}>
+  <div className="card hover-lift" style={{padding: '1.5rem'}}>
+    <h3>🤖 Robotics</h3>
+    <p>Learn robot control, kinematics, and dynamics</p>
+  </div>
+  <div className="card hover-lift" style={{padding: '1.5rem'}}>
+    <h3>🧠 AI Integration</h3>
+    <p>Integrate machine learning and computer vision</p>
+  </div>
+  <div className="card hover-lift" style={{padding: '1.5rem'}}>
+    <h3>🎮 Simulation</h3>
+    <p>Master Gazebo, Unity, and Isaac Sim</p>
+  </div>
+</div>
+
+## Blockquotes
+
+> "The best way to predict the future is to invent it."
+> 
+> — Alan Kay
+
+## Images
+
+Images automatically get rounded corners and shadows:
+
+![Robot Example](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Robot+Simulation)
+
+## Inline Elements
+
+You can use `inline code`, **bold text**, *italic text*, ~~strikethrough~~, and [links](#) within paragraphs.
+
+## Horizontal Rule
+
+---
+
+## Animations
+
+<div style={{display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1rem', marginBottom: '2rem'}}>
+  <div className="animate-fade-in" style={{padding: '2rem', background: 'var(--ifm-card-background)', borderRadius: '12px', textAlign: 'center', border: '1px solid var(--ifm-color-emphasis-300)'}}>
+    Fade In
+  </div>
+  <div className="animate-fade-in-up" style={{padding: '2rem', background: 'var(--ifm-card-background)', borderRadius: '12px', textAlign: 'center', border: '1px solid var(--ifm-color-emphasis-300)'}}>
+    Fade In Up
+  </div>
+  <div className="animate-scale-in" style={{padding: '2rem', background: 'var(--ifm-card-background)', borderRadius: '12px', textAlign: 'center', border: '1px solid var(--ifm-color-emphasis-300)'}}>
+    Scale In
+  </div>
+  <div className="animate-pulse" style={{padding: '2rem', background: 'var(--ifm-card-background)', borderRadius: '12px', textAlign: 'center', border: '1px solid var(--ifm-color-emphasis-300)'}}>
+    Pulse
+  </div>
+</div>
+
+## Gradient Text
+
+<h1 className="text-gradient" style={{fontSize: '3rem', textAlign: 'center', marginBottom: '2rem'}}>
+  Beautiful Gradient Text
+</h1>
+
+## Interactive Elements
+
+<div style={{display: 'flex', gap: '1rem', flexWrap: 'wrap', marginBottom: '2rem'}}>
+  <div className="hover-lift" style={{padding: '2rem', background: 'var(--ifm-card-background)', borderRadius: '12px', border: '1px solid var(--ifm-color-emphasis-300)', cursor: 'pointer'}}>
+    Hover to Lift
+  </div>
+  <div className="hover-scale" style={{padding: '2rem', background: 'var(--ifm-card-background)', borderRadius: '12px', border: '1px solid var(--ifm-color-emphasis-300)', cursor: 'pointer'}}>
+    Hover to Scale
+  </div>
+  <div className="hover-glow" style={{padding: '2rem', background: 'var(--ifm-card-background)', borderRadius: '12px', border: '1px solid var(--ifm-color-emphasis-300)', cursor: 'pointer'}}>
+    Hover to Glow
+  </div>
+</div>
+
+## Conclusion
+
+This showcase demonstrates the complete design system. All components are responsive, accessible, and optimized for both light and dark modes. For implementation details, see the `DESIGN_SYSTEM.md` and `STYLING_GUIDE.md` files.

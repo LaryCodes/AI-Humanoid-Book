@@ -1,0 +1,24 @@
+{
+  "id": "appendices/cloud-setup",
+  "title": "Cloud Setup Guide",
+  "description": "This guide provides instructions for establishing cloud-based development environments to run tutorials and projects in this course. This is an alternative if you lack access to recommended local hardware.",
+  "source": "@site/docs/appendices/cloud-setup.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/cloud-setup",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/cloud-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/appendices/cloud-setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Chapter 13: Capstone: Autonomous Humanoid",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/capstone-autonomous-humanoid"
+  },
+  "next": {
+    "title": "Hardware Guide",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/appendices/hardware-guide"
+  }
+}

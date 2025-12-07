@@ -1,0 +1,24 @@
+{
+  "id": "vision-language-action/index",
+  "title": "Module 4: Vision-Language-Action",
+  "description": "Cognitive Robotics Unleashed",
+  "source": "@site/docs/04-vision-language-action/index.md",
+  "sourceDirName": "04-vision-language-action",
+  "slug": "/vision-language-action/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/04-vision-language-action/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Chapter 11: Voice-to-Action",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/vision-language-action/voice-to-action"
+  }
+}

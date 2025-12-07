@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/tutorial-basics/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/tutorial-basics/deploy-your-site"
+  },
+  "next": {
+    "title": "Module 3: The AI Robot Brain",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/ai-robot-brain/"
+  }
+}

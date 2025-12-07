@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Book/design-showcase",
+  "source": "@site/src/pages/design-showcase.mdx",
+  "title": "Design System Showcase",
+  "description": "Visual demonstration of all design components and styling",
+  "frontMatter": {
+    "title": "Design System Showcase",
+    "description": "Visual demonstration of all design components and styling"
+  },
+  "unlisted": false
+}

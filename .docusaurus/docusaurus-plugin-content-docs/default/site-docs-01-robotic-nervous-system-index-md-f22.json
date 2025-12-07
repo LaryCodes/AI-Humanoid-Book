@@ -1,0 +1,20 @@
+{
+  "id": "robotic-nervous-system/index",
+  "title": "Module 1: The Robotic Nervous System",
+  "description": "Building the Communication Backbone with ROS 2",
+  "source": "@site/docs/01-robotic-nervous-system/index.md",
+  "sourceDirName": "01-robotic-nervous-system",
+  "slug": "/robotic-nervous-system/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/specifykit/ai-native-book/tree/main/docs/01-robotic-nervous-system/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Book/docs/robotic-nervous-system/introduction-physical-ai"
+  }
+}
