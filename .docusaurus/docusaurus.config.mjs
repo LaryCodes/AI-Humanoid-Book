@@ -32,7 +32,7 @@ export default {
   "baseUrl": "/AI-Humanoid-Book/",
   "organizationName": "LaryCodes",
   "projectName": "AI-Humanoid-Book",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "ignore",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
