@@ -18,7 +18,7 @@ const config: Config = {
   url: 'https://github.com/LaryCodes', // Placeholder for GitHub Pages deployment
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Physical-AI-Humanoid-Robotics-Book/', // For GitHub Pages deployment, adjust as needed
+  baseUrl: '/AI-Humanoid-Book/', // For GitHub Pages deployment, adjust as needed
 
   // GitHub pages deployment config.
   organizationName: 'LaryCodes', // Usually your GitHub org/user name.
