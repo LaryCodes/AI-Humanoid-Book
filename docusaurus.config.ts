@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   organizationName: 'LaryCodes', // Usually your GitHub org/user name.
-  projectName: 'Physical-AI-Humanoid-Robotics-Book', // Usually your repo name.
+  projectName: 'AI-Humanoid-Book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
