@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/AI-Humanoid-Book/__docusaurus/debug',
-    component: ComponentCreator('/AI-Humanoid-Book/__docusaurus/debug', '15e'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Book/__docusaurus/debug/config',
-    component: ComponentCreator('/AI-Humanoid-Book/__docusaurus/debug/config', '068'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Book/__docusaurus/debug/content',
-    component: ComponentCreator('/AI-Humanoid-Book/__docusaurus/debug/content', '41f'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Book/__docusaurus/debug/globalData',
-    component: ComponentCreator('/AI-Humanoid-Book/__docusaurus/debug/globalData', '373'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Book/__docusaurus/debug/metadata',
-    component: ComponentCreator('/AI-Humanoid-Book/__docusaurus/debug/metadata', 'a3a'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Book/__docusaurus/debug/registry',
-    component: ComponentCreator('/AI-Humanoid-Book/__docusaurus/debug/registry', '6d3'),
-    exact: true
-  },
-  {
-    path: '/AI-Humanoid-Book/__docusaurus/debug/routes',
-    component: ComponentCreator('/AI-Humanoid-Book/__docusaurus/debug/routes', 'd47'),
-    exact: true
-  },
-  {
     path: '/AI-Humanoid-Book/404',
     component: ComponentCreator('/AI-Humanoid-Book/404', 'e4c'),
     exact: true

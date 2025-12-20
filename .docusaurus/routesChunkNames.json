@@ -1,434 +1,391 @@
 {
-  "/AI-Humanoid-Book/__docusaurus/debug-15e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---ai-humanoid-book-docusaurus-debugb-38-f91"
-    }
-  },
-  "/AI-Humanoid-Book/__docusaurus/debug/config-068": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---ai-humanoid-book-docusaurus-debugb-38-f91"
-    }
-  },
-  "/AI-Humanoid-Book/__docusaurus/debug/content-41f": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---ai-humanoid-book-docusaurus-debugb-38-f91"
-    },
-    "__props": "__props---ai-humanoid-book-docusaurus-debug-content-9-b-3-882"
-  },
-  "/AI-Humanoid-Book/__docusaurus/debug/globalData-373": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---ai-humanoid-book-docusaurus-debugb-38-f91"
-    }
-  },
-  "/AI-Humanoid-Book/__docusaurus/debug/metadata-a3a": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---ai-humanoid-book-docusaurus-debugb-38-f91"
-    }
-  },
-  "/AI-Humanoid-Book/__docusaurus/debug/registry-6d3": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---ai-humanoid-book-docusaurus-debugb-38-f91"
-    }
-  },
-  "/AI-Humanoid-Book/__docusaurus/debug/routes-d47": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---ai-humanoid-book-docusaurus-debugb-38-f91"
-    }
-  },
   "/AI-Humanoid-Book/404-e4c": {
-    "__comp": "__comp---site-src-pages-404-tsx-936-282",
+    "__comp": "9362049b",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-404-a-74-f8f"
+      "plugin": "a7456010"
     },
-    "config": "config---ai-humanoid-book-4045-e-9-2d5"
+    "config": "5e9f5e1a"
   },
   "/AI-Humanoid-Book/blog-d6d": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---ai-humanoid-book-blog-766-697"
+        "content": "7661071f"
       },
       {
-        "content": "content---ai-humanoid-book-blogf-4-f-c0f"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---ai-humanoid-book-blog-871-81c"
+        "content": "8717b14a"
       },
       {
-        "content": "content---ai-humanoid-book-blog-925-70d"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---ai-humanoid-book-blogce-3-481"
+    "__props": "ce3e2271"
   },
   "/AI-Humanoid-Book/blog/archive-460": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "__props": "__props---ai-humanoid-book-blog-archive-503-592"
+    "__props": "503834f9"
   },
   "/AI-Humanoid-Book/blog/authors-44b": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---ai-humanoid-book-blog-authorsace-7e5"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "__props": "__props---ai-humanoid-book-blog-authorscd-3-890"
+    "sidebar": "814f3328",
+    "__props": "cd3a6054"
   },
   "/AI-Humanoid-Book/blog/authors/all-sebastien-lorber-articles-822": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---ai-humanoid-book-blog-authorsace-7e5"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---ai-humanoid-book-blog-766-697"
+        "content": "7661071f"
       },
       {
-        "content": "content---ai-humanoid-book-blogf-4-f-c0f"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---ai-humanoid-book-blog-925-70d"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "__props": "__props---ai-humanoid-book-blog-authors-all-sebastien-lorber-articlesd-10-0d5"
+    "sidebar": "814f3328",
+    "__props": "d10029e0"
   },
   "/AI-Humanoid-Book/blog/authors/yangshun-722": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---ai-humanoid-book-blog-authorsace-7e5"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---ai-humanoid-book-blog-766-697"
+        "content": "7661071f"
       },
       {
-        "content": "content---ai-humanoid-book-blog-871-81c"
+        "content": "8717b14a"
       },
       {
-        "content": "content---ai-humanoid-book-blog-925-70d"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "__props": "__props---ai-humanoid-book-blog-authors-yangshun-5-a-5-bf7"
+    "sidebar": "814f3328",
+    "__props": "5a54dcac"
   },
   "/AI-Humanoid-Book/blog/first-blog-post-5ac": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---ai-humanoid-book-blog-authorsace-7e5"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "content": "content---ai-humanoid-book-blog-first-blog-poste-27-8ba"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/AI-Humanoid-Book/blog/long-blog-post-982": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---ai-humanoid-book-blog-authorsace-7e5"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "content": "content---ai-humanoid-book-blog-long-blog-post-736-de2"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/AI-Humanoid-Book/blog/mdx-blog-post-e56": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---ai-humanoid-book-blog-authorsace-7e5"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "content": "content---ai-humanoid-book-blog-mdx-blog-post-593-8ce"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/AI-Humanoid-Book/blog/tags-46b": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "__props": "__props---ai-humanoid-book-blog-tagsc-00-3ec"
+    "sidebar": "814f3328",
+    "__props": "c00fa367"
   },
   "/AI-Humanoid-Book/blog/tags/docusaurus-fda": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---ai-humanoid-book-blog-766-697"
+        "content": "7661071f"
       },
       {
-        "content": "content---ai-humanoid-book-blogf-4-f-c0f"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---ai-humanoid-book-blog-871-81c"
+        "content": "8717b14a"
       },
       {
-        "content": "content---ai-humanoid-book-blog-925-70d"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---ai-humanoid-book-blog-tags-docusaurused-9-199"
+    "__props": "ed945954"
   },
   "/AI-Humanoid-Book/blog/tags/facebook-1a3": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---ai-humanoid-book-blog-766-697"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---ai-humanoid-book-blog-tags-facebook-28-e-432"
+    "__props": "28e2b730"
   },
   "/AI-Humanoid-Book/blog/tags/hello-421": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---ai-humanoid-book-blog-766-697"
+        "content": "7661071f"
       },
       {
-        "content": "content---ai-humanoid-book-blog-871-81c"
+        "content": "8717b14a"
       }
     ],
-    "__props": "__props---ai-humanoid-book-blog-tags-hellob-6-c-b4f"
+    "__props": "b6c6f541"
   },
   "/AI-Humanoid-Book/blog/tags/hola-a88": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---ai-humanoid-book-blog-925-70d"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---ai-humanoid-book-blog-tags-holabd-9-67c"
+    "__props": "bd92648b"
   },
   "/AI-Humanoid-Book/blog/welcome-2ee": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---ai-humanoid-book-blog-authorsace-7e5"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---ai-humanoid-book-blog-369-8a2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---ai-humanoid-book-blog-814-43f",
-    "content": "content---ai-humanoid-book-blog-welcomed-9-f-700"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/AI-Humanoid-Book/design-showcase-c21": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-404-a-74-f8f"
+      "plugin": "a7456010"
     },
-    "content": "content---ai-humanoid-book-design-showcasea-45-e39"
+    "content": "a45e0685"
   },
   "/AI-Humanoid-Book/markdown-page-5bc": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-404-a-74-f8f"
+      "plugin": "a7456010"
     },
-    "content": "content---ai-humanoid-book-markdown-page-393-e05"
+    "content": "393be207"
   },
   "/AI-Humanoid-Book/docs-bb3": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-docsaba-72e"
+      "plugin": "aba21aa0"
     }
   },
   "/AI-Humanoid-Book/docs-190": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---ai-humanoid-book-docs-4-c-5-227"
+    "__comp": "a7bd4aaa",
+    "__props": "4c58e331"
   },
   "/AI-Humanoid-Book/docs-782": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/AI-Humanoid-Book/docs/ai-robot-brain/-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-ai-robot-brain-052-33e"
+    "__comp": "17896441",
+    "content": "0523084f"
   },
   "/AI-Humanoid-Book/docs/ai-robot-brain/isaac-ros-perception-843": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-ai-robot-brain-isaac-ros-perception-745-c57"
+    "__comp": "17896441",
+    "content": "74590bb2"
   },
   "/AI-Humanoid-Book/docs/ai-robot-brain/nav2-path-planning-dd3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-ai-robot-brain-nav-2-path-planningae-8-64b"
+    "__comp": "17896441",
+    "content": "ae8d843f"
   },
   "/AI-Humanoid-Book/docs/ai-robot-brain/nvidia-isaac-sim-8f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-ai-robot-brain-nvidia-isaac-sim-3-a-2-e37"
+    "__comp": "17896441",
+    "content": "3a21365d"
   },
   "/AI-Humanoid-Book/docs/appendices/cloud-setup-254": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-appendices-cloud-setup-565-84d"
+    "__comp": "17896441",
+    "content": "5654f0e1"
   },
   "/AI-Humanoid-Book/docs/appendices/hardware-guide-8aa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-appendices-hardware-guide-781-a3a"
+    "__comp": "17896441",
+    "content": "781f3542"
   },
   "/AI-Humanoid-Book/docs/appendices/resources-be0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-appendices-resourcesdb-3-923"
+    "__comp": "17896441",
+    "content": "db397fe4"
   },
   "/AI-Humanoid-Book/docs/appendices/troubleshooting-7f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-appendices-troubleshootingbd-6-7e0"
+    "__comp": "17896441",
+    "content": "bd6d8672"
   },
   "/AI-Humanoid-Book/docs/category/tutorial---basics-590": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ai-humanoid-book-docs-category-tutorial-basicsa-3-c-1bf"
+    "__comp": "14eb3368",
+    "__props": "a3c3abaf"
   },
   "/AI-Humanoid-Book/docs/category/tutorial---extras-892": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ai-humanoid-book-docs-category-tutorial-extras-57-e-c28"
+    "__comp": "14eb3368",
+    "__props": "57e23f20"
   },
   "/AI-Humanoid-Book/docs/digital-twin/-9c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-digital-twin-e-3-e-880"
+    "__comp": "17896441",
+    "content": "e3e7d9d3"
   },
   "/AI-Humanoid-Book/docs/digital-twin/gazebo-fundamentals-36d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-digital-twin-gazebo-fundamentals-1-b-9-21f"
+    "__comp": "17896441",
+    "content": "1b951f62"
   },
   "/AI-Humanoid-Book/docs/digital-twin/physics-simulation-a2a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-digital-twin-physics-simulation-595-109"
+    "__comp": "17896441",
+    "content": "595e3cef"
   },
   "/AI-Humanoid-Book/docs/digital-twin/unity-integration-967": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-digital-twin-unity-integration-821-e3a"
+    "__comp": "17896441",
+    "content": "821bcf19"
   },
   "/AI-Humanoid-Book/docs/glossary-932": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-glossarye-74-86f"
+    "__comp": "17896441",
+    "content": "e747ec83"
   },
   "/AI-Humanoid-Book/docs/instructor-guide-ac4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-instructor-guide-871-87a"
+    "__comp": "17896441",
+    "content": "8713521e"
   },
   "/AI-Humanoid-Book/docs/intro-f92": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-intro-0-e-3-b2d"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/AI-Humanoid-Book/docs/robotic-nervous-system/-9d4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-robotic-nervous-system-f-22-57f"
+    "__comp": "17896441",
+    "content": "f223be73"
   },
   "/AI-Humanoid-Book/docs/robotic-nervous-system/introduction-physical-ai-777": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-robotic-nervous-system-introduction-physical-aic-83-a23"
+    "__comp": "17896441",
+    "content": "c830b369"
   },
   "/AI-Humanoid-Book/docs/robotic-nervous-system/ros2-architecture-f9b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-robotic-nervous-system-ros-2-architecture-2-d-4-bb4"
+    "__comp": "17896441",
+    "content": "2d47173d"
   },
   "/AI-Humanoid-Book/docs/robotic-nervous-system/ros2-python-development-a8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-robotic-nervous-system-ros-2-python-developmentd-85-4ad"
+    "__comp": "17896441",
+    "content": "d85affa4"
   },
   "/AI-Humanoid-Book/docs/robotic-nervous-system/urdf-robot-modeling-e5e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-robotic-nervous-system-urdf-robot-modeling-4-c-1-3b8"
+    "__comp": "17896441",
+    "content": "4c19b746"
   },
   "/AI-Humanoid-Book/docs/student-resources/ros2_python_cheat_sheet-da9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-student-resources-ros-2-python-cheat-sheet-6-a-6-66f"
+    "__comp": "17896441",
+    "content": "6a6a0520"
   },
   "/AI-Humanoid-Book/docs/student-resources/vla_reference_card-874": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-student-resources-vla-reference-card-6-ab-089"
+    "__comp": "17896441",
+    "content": "6ab3c41a"
   },
   "/AI-Humanoid-Book/docs/tutorial-basics/congratulations-094": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-basics-congratulations-822-ff6"
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
   "/AI-Humanoid-Book/docs/tutorial-basics/create-a-blog-post-c53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-basics-create-a-blog-post-533-2f9"
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
   "/AI-Humanoid-Book/docs/tutorial-basics/create-a-document-d4c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-basics-create-a-document-1-e-4-4a6"
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
   "/AI-Humanoid-Book/docs/tutorial-basics/create-a-page-db3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-basics-create-a-page-5-c-8-59a"
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
   "/AI-Humanoid-Book/docs/tutorial-basics/deploy-your-site-477": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-basics-deploy-your-sitef-55-b18"
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
   "/AI-Humanoid-Book/docs/tutorial-basics/markdown-features-0c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-basics-markdown-features-18-c-8c9"
+    "__comp": "17896441",
+    "content": "18c41134"
   },
   "/AI-Humanoid-Book/docs/tutorial-extras/manage-docs-versions-252": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-extras-manage-docs-versionsdff-667"
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
   "/AI-Humanoid-Book/docs/tutorial-extras/translate-your-site-21c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-tutorial-extras-translate-your-sitee-44-a05"
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
   "/AI-Humanoid-Book/docs/video_embedding_instructions-5c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-video-embedding-instructions-2-c-4-ede"
+    "__comp": "17896441",
+    "content": "2c40bb86"
   },
   "/AI-Humanoid-Book/docs/vision-language-action/-bb2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-vision-language-action-ddd-291"
+    "__comp": "17896441",
+    "content": "ddd42f4f"
   },
   "/AI-Humanoid-Book/docs/vision-language-action/capstone-autonomous-humanoid-2a7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-vision-language-action-capstone-autonomous-humanoidda-0-892"
+    "__comp": "17896441",
+    "content": "da081f40"
   },
   "/AI-Humanoid-Book/docs/vision-language-action/llm-cognitive-planning-286": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-vision-language-action-llm-cognitive-planningc-65-965"
+    "__comp": "17896441",
+    "content": "c659d6f9"
   },
   "/AI-Humanoid-Book/docs/vision-language-action/voice-to-action-590": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-humanoid-book-docs-vision-language-action-voice-to-actione-73-a23"
+    "__comp": "17896441",
+    "content": "e73d4ce8"
   },
   "/AI-Humanoid-Book/-633": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---ai-humanoid-book-404-a-74-f8f"
+      "plugin": "a7456010"
     },
-    "config": "config---ai-humanoid-book-4045-e-9-2d5"
+    "config": "5e9f5e1a"
   }
 }

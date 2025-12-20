@@ -104,9 +104,9 @@ const config: Config = {
           title: 'Learn',
           items: [
             { label: 'Introduction', to: '/docs/intro' },
-            { label: 'ROS2 Fundamentals', to: '/docs/01-robotic-nervous-system' },
-            { label: 'Simulation', to: '/docs/02-digital-twin' },
-            { label: 'AI Integration', to: '/docs/03-ai-robot-brain' },
+            { label: 'ROS2 Fundamentals', to: '/docs/robotic-nervous-system' },
+            { label: 'Simulation', to: '/docs/digital-twin' },
+            { label: 'AI Integration', to: '/docs/ai-robot-brain' },
           ],
         },
         {

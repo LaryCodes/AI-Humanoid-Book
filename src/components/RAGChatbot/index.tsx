@@ -56,79 +56,79 @@ const BOOK_KNOWLEDGE: DocumentChunk[] = [
   {
     id: '1',
     title: 'Introduction to Physical AI',
-    path: '/docs/01-robotic-nervous-system/01-introduction-physical-ai',
+    path: '/docs/robotic-nervous-system/introduction-physical-ai',
     content: `Physical AI describes computational systems that possess physical form, gather real-world information through sensors, and influence their surroundings via actuators. These aren't just algorithms running on servers; they're embodied agents that must navigate the complexities of physics, handle uncertainty, and operate safely in dynamic environments. Physical AI represents the next evolutionary leap in intelligent systems, combining perception, cognition, action, and adaptation in a continuous loop.`
   },
   {
     id: '2',
     title: 'ROS 2 Architecture',
-    path: '/docs/01-robotic-nervous-system/02-ros2-architecture',
+    path: '/docs/robotic-nervous-system/ros2-architecture',
     content: `ROS 2 (Robot Operating System 2) is the industry-standard framework for robotics development. It uses a node-based architecture where nodes communicate through topics (publish-subscribe), services (request-response), and actions (long-running tasks with feedback). ROS 2 is built on DDS (Data Distribution Service) middleware for reliable, real-time communication. Key concepts include nodes, topics, services, actions, parameters, and the computational graph.`
   },
   {
     id: '3',
     title: 'ROS 2 Python Development',
-    path: '/docs/01-robotic-nervous-system/03-ros2-python-development',
+    path: '/docs/robotic-nervous-system/ros2-python-development',
     content: `Developing ROS 2 applications in Python uses the rclpy library. You create nodes by extending the Node class, use create_publisher() and create_subscription() for topics, create_service() and create_client() for services. Timers are created with create_timer(). The main loop uses rclpy.spin() to process callbacks. Package structure includes setup.py, package.xml, and resource files.`
   },
   {
     id: '4',
     title: 'URDF Robot Modeling',
-    path: '/docs/01-robotic-nervous-system/04-urdf-robot-modeling',
+    path: '/docs/robotic-nervous-system/urdf-robot-modeling',
     content: `URDF (Unified Robot Description Format) is an XML format for describing robot models. It defines links (rigid bodies) and joints (connections between links). Joint types include revolute, prismatic, continuous, fixed, floating, and planar. Each link can have visual, collision, and inertial properties. URDF is used for visualization in RViz2 and simulation in Gazebo.`
   },
   {
     id: '5',
     title: 'Gazebo Simulation',
-    path: '/docs/02-digital-twin/05-gazebo-fundamentals',
+    path: '/docs/digital-twin/gazebo-fundamentals',
     content: `Gazebo is the primary robot simulator in the ROS ecosystem. It provides physics simulation, sensor simulation, and 3D visualization. You can create custom worlds with SDF (Simulation Description Format), spawn URDF robots, and interact with simulations through ROS 2 topics and services. Gazebo supports multiple physics engines including ODE, Bullet, and DART.`
   },
   {
     id: '6',
     title: 'Physics Simulation',
-    path: '/docs/02-digital-twin/06-physics-simulation',
+    path: '/docs/digital-twin/physics-simulation',
     content: `Physics simulation in robotics involves rigid body dynamics, contact forces, friction, and collision detection. Key properties include mass, inertia tensor, center of mass, friction coefficients, and restitution. Accurate physics simulation is crucial for sim-to-real transfer. Sensor simulation includes cameras, LiDAR, IMU, and force/torque sensors.`
   },
   {
     id: '7',
     title: 'Unity Integration',
-    path: '/docs/02-digital-twin/07-unity-integration',
+    path: '/docs/digital-twin/unity-integration',
     content: `Unity can be integrated with ROS 2 using the ROS-TCP-Connector package. This enables high-fidelity visualization and advanced simulation scenarios. Unity provides realistic rendering, physics simulation with PhysX, and support for VR/AR applications. The Unity Robotics Hub provides tools for URDF import and ROS message handling.`
   },
   {
     id: '8',
     title: 'NVIDIA Isaac Sim',
-    path: '/docs/03-ai-robot-brain/08-nvidia-isaac-sim',
+    path: '/docs/ai-robot-brain/nvidia-isaac-sim',
     content: `NVIDIA Isaac Sim is a robotics simulation platform built on Omniverse. It provides photorealistic rendering, accurate physics with PhysX 5, and synthetic data generation for AI training. Isaac Sim supports URDF/SDF import, domain randomization, and seamless ROS 2 integration. It's ideal for training perception models and testing autonomous systems.`
   },
   {
     id: '9',
     title: 'Isaac ROS Perception',
-    path: '/docs/03-ai-robot-brain/09-isaac-ros-perception',
+    path: '/docs/ai-robot-brain/isaac-ros-perception',
     content: `Isaac ROS provides GPU-accelerated perception packages for ROS 2. Key components include Visual SLAM (cuVSLAM) for localization and mapping, object detection with YOLO and other models, semantic segmentation, depth estimation, and AprilTag detection. These packages leverage NVIDIA GPUs for real-time performance.`
   },
   {
     id: '10',
     title: 'Nav2 Path Planning',
-    path: '/docs/03-ai-robot-brain/10-nav2-path-planning',
+    path: '/docs/ai-robot-brain/nav2-path-planning',
     content: `Nav2 is ROS 2's navigation stack for autonomous mobile robots. It includes global planners (NavFn, Smac), local planners (DWB, TEB), costmaps for obstacle representation, behavior trees for navigation logic, and recovery behaviors. Configuration involves setting up costmap layers, planner parameters, and controller settings.`
   },
   {
     id: '11',
     title: 'Voice-to-Action',
-    path: '/docs/04-vision-language-action/11-voice-to-action',
+    path: '/docs/vision-language-action/voice-to-action',
     content: `Voice-to-action systems convert speech to robot commands. OpenAI Whisper provides accurate speech-to-text transcription. The pipeline involves audio capture, speech recognition, natural language understanding, and command generation. ROS 2 nodes can subscribe to audio topics and publish text commands for further processing.`
   },
   {
     id: '12',
     title: 'LLM Cognitive Planning',
-    path: '/docs/04-vision-language-action/12-llm-cognitive-planning',
+    path: '/docs/vision-language-action/llm-cognitive-planning',
     content: `Large Language Models (LLMs) can be used for high-level cognitive planning in robotics. They interpret natural language instructions, generate action sequences, and adapt to dynamic environments. Prompt engineering is crucial for reliable robot control. LLM outputs are converted to ROS 2 action goals or service calls.`
   },
   {
     id: '13',
     title: 'Capstone: Autonomous Humanoid',
-    path: '/docs/04-vision-language-action/13-capstone-autonomous-humanoid',
+    path: '/docs/vision-language-action/capstone-autonomous-humanoid',
     content: `The capstone project integrates all course concepts: voice command recognition with Whisper, LLM-based cognitive planning, perception with Isaac ROS, navigation with Nav2, and robot control through ROS 2. The goal is a voice-controlled autonomous humanoid that can understand and execute complex multi-step tasks.`
   },
   {
@@ -140,25 +140,25 @@ const BOOK_KNOWLEDGE: DocumentChunk[] = [
   {
     id: '15',
     title: 'Module 1: Robotic Nervous System',
-    path: '/docs/01-robotic-nervous-system',
+    path: '/docs/robotic-nervous-system',
     content: `Module 1 covers ROS 2 fundamentals including architecture, Python development, and URDF robot modeling. Setup requires Ubuntu 22.04 LTS, build-essential, curl, git, python3-pip. Install colcon with pip install -U colcon-common-extensions. Configure locales for ROS 2 with locale-gen en_US.UTF-8.`
   },
   {
     id: '16',
     title: 'Module 2: Digital Twin',
-    path: '/docs/02-digital-twin',
+    path: '/docs/digital-twin',
     content: `Module 2 covers simulation environments including Gazebo fundamentals, physics simulation, and Unity integration. Learn to create digital twins of robots for testing and development.`
   },
   {
     id: '17',
     title: 'Module 3: AI Robot Brain',
-    path: '/docs/03-ai-robot-brain',
+    path: '/docs/ai-robot-brain',
     content: `Module 3 covers NVIDIA Isaac Sim, Isaac ROS perception, and Nav2 path planning for autonomous navigation. Learn AI-powered perception and navigation.`
   },
   {
     id: '18',
     title: 'Module 4: Vision-Language-Action',
-    path: '/docs/04-vision-language-action',
+    path: '/docs/vision-language-action',
     content: `Module 4 covers voice-to-action systems, LLM cognitive planning, and the capstone autonomous humanoid project. Build voice-controlled robots using AI.`
   }
 ];
