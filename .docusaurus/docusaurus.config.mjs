@@ -33,6 +33,23 @@ export default {
   "organizationName": "LaryCodes",
   "projectName": "AI-Humanoid-Book",
   "onBrokenLinks": "warn",
+  "markdown": {
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    }
+  },
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -116,15 +133,15 @@ export default {
             },
             {
               "label": "ROS2 Fundamentals",
-              "to": "/docs/category/ros2-fundamentals"
+              "to": "/docs/robotic-nervous-system"
             },
             {
               "label": "Simulation",
-              "to": "/docs/category/simulation"
+              "to": "/docs/digital-twin"
             },
             {
               "label": "AI Integration",
-              "to": "/docs/category/ai-integration"
+              "to": "/docs/ai-robot-brain"
             }
           ]
         },
@@ -475,22 +492,5 @@ export default {
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "emoji": true,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    },
-    "anchors": {
-      "maintainCase": false
-    },
-    "hooks": {
-      "onBrokenMarkdownLinks": "warn",
-      "onBrokenMarkdownImages": "throw"
-    }
-  }
+  "noIndex": false
 };

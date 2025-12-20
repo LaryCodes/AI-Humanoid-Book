@@ -20,7 +20,13 @@ const config: Config = {
   projectName: 'AI-Humanoid-Book',
 
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    format: 'mdx',
+    preprocessor: ({filePath, fileContent}) => {
+      return fileContent;
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -98,9 +104,9 @@ const config: Config = {
           title: 'Learn',
           items: [
             { label: 'Introduction', to: '/docs/intro' },
-            { label: 'ROS2 Fundamentals', to: '/docs/category/ros2-fundamentals' },
-            { label: 'Simulation', to: '/docs/category/simulation' },
-            { label: 'AI Integration', to: '/docs/category/ai-integration' },
+            { label: 'ROS2 Fundamentals', to: '/docs/robotic-nervous-system' },
+            { label: 'Simulation', to: '/docs/digital-twin' },
+            { label: 'AI Integration', to: '/docs/ai-robot-brain' },
           ],
         },
         {

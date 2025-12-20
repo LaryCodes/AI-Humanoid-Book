@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 type Props = WrapperProps<typeof DocItemLayoutType>;
 
-export default function DocItemLayoutWrapper(props: Props): JSX.Element {
+export default function DocItemLayoutWrapper(props: Props): React.ReactElement {
   const {metadata} = useDoc();
   
   return (

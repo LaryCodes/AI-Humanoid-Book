@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './404.module.css';
 
-export default function NotFound(): JSX.Element {
+export default function NotFound(): React.ReactElement {
   return (
     <Layout
       title="Page Not Found"

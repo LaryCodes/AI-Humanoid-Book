@@ -4,6 +4,9 @@
 
 .docItemWrapper {
   animation: fadeIn 0.4s ease-out;
+  /* Prevent stacking context issues with mobile navigation */
+  z-index: auto;
+  isolation: auto;
 }
 
 .docItemWrapper :global(article) {

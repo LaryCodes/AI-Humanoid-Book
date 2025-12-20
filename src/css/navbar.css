@@ -41,26 +41,6 @@
   transform: rotate(360deg);
 }
 
-/* Mobile menu improvements */
-.navbar-sidebar {
-  background: var(--ifm-navbar-background-color);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-}
-
-.navbar-sidebar__brand {
-  padding: 1.5rem;
-  border-bottom: 1px solid var(--ifm-color-emphasis-300);
-}
-
-.navbar-sidebar__items {
-  padding: 1rem;
-}
-
-.navbar-sidebar__item {
-  padding: 0.5rem 0;
-}
-
 /* Color mode toggle */
 button[class*='colorModeToggle'] {
   border-radius: 8px;
@@ -100,4 +80,18 @@ button[class*='colorModeToggle']:hover {
 .dropdown__link:hover {
   background: var(--ifm-color-primary);
   color: white;
+}
+
+
+/* Mobile Navigation Fix - Ensure sidebar appears above content */
+@media screen and (max-width: 996px) {
+  .navbar-sidebar {
+    z-index: 10000 !important;
+    position: fixed !important;
+  }
+  
+  .navbar-sidebar__backdrop {
+    z-index: 9999 !important;
+    position: fixed !important;
+  }
 }
