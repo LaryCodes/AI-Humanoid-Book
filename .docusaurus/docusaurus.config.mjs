@@ -133,15 +133,15 @@ export default {
             },
             {
               "label": "ROS2 Fundamentals",
-              "to": "/docs/robotic-nervous-system"
+              "to": "/docs/01-robotic-nervous-system"
             },
             {
               "label": "Simulation",
-              "to": "/docs/digital-twin"
+              "to": "/docs/02-digital-twin"
             },
             {
               "label": "AI Integration",
-              "to": "/docs/ai-robot-brain"
+              "to": "/docs/03-ai-robot-brain"
             }
           ]
         },
